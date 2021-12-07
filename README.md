@@ -4,7 +4,7 @@ Programmer mainly focused on developing Android apps with Kotlin language :sungl
 
 ## Tech stack:
 - **Architecture**: MVVM, Single Activity pattern, NAvigation Component (with SafeArgs), View Binding
--**Data**: ROOM, Retrofit, Ktor, DataStore, SharedPreferences, Glide, Serialization
+- **Data**: ROOM, Retrofit, Ktor, DataStore, SharedPreferences, Glide, Serialization
 - **Dependency Injection**: Dagger, Hilt
 - **UI**: Material Design, Animations, Lottie, Day/Night Theme
 - **Testing**: Truth, Espresso, JUnit
